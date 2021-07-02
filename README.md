@@ -11,7 +11,7 @@ Briefly, here's what you'll find in this repo:
 
 Please refer to the [Sitecore Containers documentation](https://containers.doc.sitecore.com/) for complete details, including running the examples and recommended usage.
 
-## Are Docker Examples supported by Sitecore?
+## Are Docker Examples supported by Sitecore? 
 
 Sitecore maintains the Sitecore Containers documentation and Docker Examples, but example code is not supported by Sitecore Product Support Services. Please do not submit support tickets regarding Docker Examples.
 
